@@ -1,3 +1,8 @@
+## CRWN shopping
+
+A React app built from https://www.udemy.com/share/101WH4B0QbdF5aRHo=/
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
